@@ -17,3 +17,5 @@ Script that adds execute permission to the owner and the group owner, and read p
 Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello without commas
 ### [8-James_Bond] (8-James_Bond)
 Write a script that sets the permission to the file hello as follows: 007
+### [9-John_Doe] (9-John_Doe)
+9-John_Doe 753
