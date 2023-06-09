@@ -14,4 +14,6 @@ Script that gives execution permission to the owner of the file hello
 ### [6-multiple_permissions] (6-multiple_permissions)
 Script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 ### [7-everybody] (7-everybody)
-Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello
+Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello without commas
+### [8-James_Bond] (8-James_Bond)
+Write a script that sets the permission to the file hello as follows: 007
