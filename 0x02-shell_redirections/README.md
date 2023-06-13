@@ -6,3 +6,5 @@ Script to print confused smiley
 Script to print the content of /etc/passwd
 ### [3-twofiles]
 Script to print the content of two files
+### [4-lastlines]
+Script to print the last ten lines
