@@ -8,3 +8,5 @@ Script to print the content of /etc/passwd
 Script to print the content of two files
 ### [4-lastlines]
 Script to print the last ten lines
+### [5-firstlines]
+Script to the first ten lines
