@@ -12,3 +12,5 @@ Script to print the last ten lines
 Script to the first ten lines
 ### [6-third_line]
 Script to print the third line in a file
+### [8-cwd_state]
+Long list into a file
