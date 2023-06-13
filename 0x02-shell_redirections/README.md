@@ -4,3 +4,5 @@
 Script to print confused smiley
 ### [[2-hellofile]
 Script to print the content of /etc/passwd
+### [3-twofiles]
+Script to print the content of two files
