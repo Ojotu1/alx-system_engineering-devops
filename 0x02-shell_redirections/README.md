@@ -14,3 +14,5 @@ Script to the first ten lines
 Script to print the third line in a file
 ### [8-cwd_state]
 Long list into a file
+### [9-duplicate_last_line]
+Script to duplicate the last lin in the file iacta into the file iacta
