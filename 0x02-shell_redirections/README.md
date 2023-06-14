@@ -16,3 +16,5 @@ Script to print the third line in a file
 Long list into a file
 ### [9-duplicate_last_line]
 Script to duplicate the last lin in the file iacta into the file iacta
+### [10-no_more_js]
+Script to find and delete files with js extension
