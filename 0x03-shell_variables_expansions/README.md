@@ -5,3 +5,5 @@ alias
 Script to print the current user
 #### [2-path]
 should be the last directory the shell looks into when looking for a program
+#### [3-paths]
+script that counts the number of directories in the PATH
